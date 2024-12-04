@@ -1,12 +1,8 @@
----
-title: "Bankroot - Rapport d'Activité"
-author:
+# Bankroot - Rapport d'Activité 
+
   - BARBIER Clément
   - FOURNIER Louis
   - VERNEAU Mathis
-date: "2024"
-output: html_document
----
 
 # Table des Matières
 
