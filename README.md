@@ -78,7 +78,7 @@
 ## Performance du Portefeuille  
 
 ### Résultats Détailés  
-- **Jour 1** : 9 138 355 € de liquidités.  
+- **Jour 1** : 9 138 355 € de liquidités. + 4000 Solana
 - **Jour 2** : 11 104 798 € (+11.04 %).  
 - **Jour 3** : 11 143 072 € (+0.34 % par rapport à J-2).  
 - **Jour 4** : 12 148 439 € (+9.02 % par rapport à J-3).  
@@ -97,5 +97,3 @@ Bankroot a démontré une capacité exceptionnelle à :
 
 ---
 
-### Notes Visuelles  
-Des espaces peuvent être ajoutés pour intégrer des graphiques ou des images des tableaux de performance, tels que les captures des soldes de compte, pour une présentation enrichie visuelle.
