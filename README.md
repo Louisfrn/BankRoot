@@ -1,8 +1,7 @@
 # Bankroot - Rapport d'Activité 
 
-  - BARBIER Clément
-  - FOURNIER Louis
-  - VERNEAU Mathis
+ ![image](https://github.com/user-attachments/assets/8e1109ca-7f4b-49df-bce1-f02f220003f3)
+
 
 # Table des Matières
 
@@ -26,7 +25,7 @@
 
 ## Stratégies de Trading  
 
-1. **Algorithmes Utilisés**  
+1. **Algorithmes développés mais non Utilisés**  
    - Régression linéaire pour la prédiction du prix d’une action J+1.  
    - Non adapté au scalping ou au trading intraday.  
 
@@ -35,9 +34,10 @@
    - **Outils d'analyse** :  
      - Moyenne mobile exponentielle (période : 12).  
      - Bandes de Bollinger (période : 20).  
-     - RSI Divergence (période : 14).  
+     - RSI Divergence (période : 14).
+     - Actualité (Stellantis, XRP,..)
 
-3. **Approches Stratégiques**  
+3. **Approches algorithmique**  
    - Achat/Vente à découvert.  
    - Martingale avec Dollar-Cost Averaging (DCA).  
    - Allocation de 10 % du capital initial pour chaque transaction.  
@@ -58,7 +58,10 @@
    - Analyse des risques :  
      - Cryptos : volatilité élevée.  
      - Actions : impact des résultats trimestriels et des cycles économiques.  
-   - Révision continue des stratégies pour s’adapter aux conditions du marché.  
+   - Révision continue des stratégies pour s’adapter aux conditions du marché.
+  
+     ![image](https://github.com/user-attachments/assets/a8ea6f88-5dce-4b03-862f-357c53cf37f9)
+
 
 3. **Collaboration Stratégique**  
    - Choix de limiter les clients à KrashBank pour une meilleure gestion des transactions et placements financiers.  
@@ -79,9 +82,21 @@
 
 ### Résultats Détailés  
 - **Jour 1** : 9 138 355 € de liquidités. + 4000 Solana
-- **Jour 2** : 11 104 798 € (+11.04 %).  
-- **Jour 3** : 11 143 072 € (+0.34 % par rapport à J-2).  
+  ![image](https://github.com/user-attachments/assets/217f2064-7bf0-41f0-88c0-f9f982210e1a)
+  ![image](https://github.com/user-attachments/assets/610d61bc-2db8-4925-9cfa-9675bcaebc24)
+
+- **Jour 2** : 11 104 798 € (+11.04 %).
+  ![image](https://github.com/user-attachments/assets/92cbe3d2-cbb6-4bf6-8759-68a1fc155e85)
+  ![image](https://github.com/user-attachments/assets/8e89f6e9-4aad-4b1e-9308-eec7568af48b)
+
+- **Jour 3** : 11 143 072 € (+0.34 % par rapport à J-2).                                  
+  ![image](https://github.com/user-attachments/assets/67321a9d-8925-4a84-bb03-fab48f082e60)
+  ![image](https://github.com/user-attachments/assets/12892b47-bc83-4f09-84e9-4f7f5a7d0e54)
+
 - **Jour 4** : 12 148 439 € (+9.02 % par rapport à J-3).  
+  ![image](https://github.com/user-attachments/assets/4744f2ec-b135-47b7-9e99-6bd72c50a341)
+  ![image](https://github.com/user-attachments/assets/112c6cc1-aef5-4302-847d-d64f81c3d551)
+
 
 ### Croissance Totale  
 - **+21.48 %** : Le solde final atteint **12 148 439 €**.  
